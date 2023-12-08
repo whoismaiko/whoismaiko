@@ -1,11 +1,13 @@
-<h1 align="center"> Hi, im hxan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
+<h1 align="center">Hi 👋, I'm hxan</h1>
+<h3 align="center">I'm just a tech enthusiast.</h3>
 
-<h2 align="left" font-weight="bold">About me</h2> 
-- A tech enthusiast, always looking forward to learn new things !
+- ⚡ Fun fact **I am a script-kiddie.**
 
-<h2> Contact with me via </h2>
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&link=https://discordapp.com/users/311798747967258626)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/thai.hoangsang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thai.hoangsang" height="30" width="40" /></a>
+<a href="https://discord.gg/torder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="torder" height="30" width="40" /></a>
+</p>
 
-## ⚡ Skills:
-Nothing :D
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
