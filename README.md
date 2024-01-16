@@ -14,6 +14,6 @@
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3174er3awynus4diefvtwzoox7qq&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
-</h3>
+</h3 align='center'>
 
 <h3 align='center'> <img src="https://count.getloli.com/get/@whoismaiko?theme=gelbooru" width="700"  /></h3> 
