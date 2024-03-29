@@ -12,9 +12,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Currently listening to:
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3174er3awynus4diefvtwzoox7qq&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=3174er3awynus4diefvtwzoox7qq&redirect=true)
 
 </h3>
 
