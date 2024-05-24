@@ -15,4 +15,3 @@
 
 </h3>
 
-<h3 align='center'> <img src="https://count.getloli.com/get/@whoismaiko?theme=gelbooru" width="700"  /></h3> 
