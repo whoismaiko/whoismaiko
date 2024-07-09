@@ -14,4 +14,5 @@
 
 
 </h3>
-
+<div align = "center">
+![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=3174er3awynus4diefvtwzoox7qq&width={600})
