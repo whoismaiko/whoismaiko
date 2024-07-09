@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm hxan</h1>
 <h3 align="center">I'm just a tech enthusiast.</h3>
 
+- 📫 How to reach me **hxan@maikoishere.site**
 - ⚡ Fun fact **I am a script-kiddie.**
 
 <h3 align="left">Connect with me:</h3>
@@ -12,7 +13,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-
+<h3 align="center">🎶Recently Played🎶 
 </h3>
-<div align = "center">
-![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=3174er3awynus4diefvtwzoox7qq&width={600})
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3174er3awynus4diefvtwzoox7qq&width=1000)
+</div>
