@@ -18,8 +18,3 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3174er3awynus4diefvtwzoox7qq&width=1000)
 </div>
-<h3 align="center">osu!
-</h3>
-
-![Alt text](https://osekai.net/profiles/img/banner.svg?id=30482782)
-</div>
