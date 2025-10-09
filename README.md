@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm hxan</h1>
 <h3 align="center">I'm just a tech enthusiast.</h3>
 
-- 📫 How to reach me **hxan@maikoishere.site**
 - ⚡ Fun fact **I am a script-kiddie.**
 
 <h3 align="left">Connect with me:</h3>
